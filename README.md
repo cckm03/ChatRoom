@@ -19,7 +19,9 @@ node chat_server.js
 
 # Features
 ## Registration and Sign in
-<img width="1343" height="849" alt="frontend" src="https://github.com/user-attachments/assets/f30e406e-305f-4818-8618-a57857f17d85" />
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f30e406e-305f-4818-8618-a57857f17d85" alt="frontend" width="500" />
+</div>
 
 ## Chat Session
 <img width="1340" height="847" alt="frontend_chatroom" src="https://github.com/user-attachments/assets/03ecceb8-aa69-4095-9493-6bcc611c99c5" />
