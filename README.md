@@ -18,3 +18,14 @@ node chat_server.js
 ```
 
 # Features
+## Registration and Sign in
+<img width="1343" height="849" alt="frontend" src="https://github.com/user-attachments/assets/f30e406e-305f-4818-8618-a57857f17d85" />
+
+## Chat Session
+<img width="1340" height="847" alt="frontend_chatroom" src="https://github.com/user-attachments/assets/03ecceb8-aa69-4095-9493-6bcc611c99c5" />
+
+### Typing status
+<img width="321" height="117" alt="typing_status" src="https://github.com/user-attachments/assets/e9508e0b-f6a2-429a-bbc0-98651d7e82f4" />
+
+## Online user list
+<img width="1340" height="847" alt="frontend_online_user_list" src="https://github.com/user-attachments/assets/13cbea8d-4b46-48bd-ac72-11d7e0354a6c" />
