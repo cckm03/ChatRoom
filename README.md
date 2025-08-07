@@ -36,3 +36,7 @@ node chat_server.js
 # API
 | Description | HTTP Method | Path | Input | Output |
 | :--- | :--- | :--- | :--- | :--- |
+| Register for a new account| POST        | /register  | New user account: `{username, avatar, name, password}`               | If successful: `{status: "success"}`<br>Otherwise: `{status: "error", error}`                                                                |
+| Sign in the chatroom      | POST        | /signin    | Username/password: `{username, password}`                            | If successful: `{status: "success", user: {username, avatar, name}}`<br>Otherwise: `{status: "error", error}`                                |
+| Validate a sign-in session| GET         | /validate  | None                                                                  | If successful: `{status: "success", user: {username, avatar, name}}`<br>Otherwise: `{status: "error", error}`                                |
+| Sign out the chatroom     | GET         | /signout   | None                                                                  | Always returns: `{status: "success"}`                                                                                                        |
