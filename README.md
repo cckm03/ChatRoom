@@ -27,5 +27,12 @@ node chat_server.js
 ### Typing status
 <img width="321" height="117" alt="typing_status" src="https://github.com/user-attachments/assets/e9508e0b-f6a2-429a-bbc0-98651d7e82f4" />
 
+### User Info
+<img width="271" height="130" alt="user_info" src="https://github.com/user-attachments/assets/9ee3b000-7692-4b70-9faa-603b0df2478e" />
+
 ## Online user list
 <img width="1340" height="847" alt="frontend_online_user_list" src="https://github.com/user-attachments/assets/13cbea8d-4b46-48bd-ac72-11d7e0354a6c" />
+
+# API
+| Description | HTTP Method | Path | Input | Output |
+| :--- | :--- | :--- | :--- | :--- |
