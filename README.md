@@ -1,5 +1,7 @@
 # Overview
-<img width="840" height="663" alt="chatroom" src="https://github.com/user-attachments/assets/0cea6eec-63aa-4f2d-a88b-5ccc13480f42" />
+<div align="center">
+  <img width="700" alt="chatroom" src="https://github.com/user-attachments/assets/0cea6eec-63aa-4f2d-a88b-5ccc13480f42" />
+</div>
 
 # Setup
 ## Install packages
@@ -20,11 +22,13 @@ node chat_server.js
 # Features
 ## Registration and Sign in
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f30e406e-305f-4818-8618-a57857f17d85" alt="frontend" width="500" />
+  <img src="https://github.com/user-attachments/assets/f30e406e-305f-4818-8618-a57857f17d85" alt="frontend" width="700" />
 </div>
 
 ## Chat Session
-<img width="1340" height="847" alt="frontend_chatroom" src="https://github.com/user-attachments/assets/03ecceb8-aa69-4095-9493-6bcc611c99c5" />
+<div align="center">
+  <img width="700" alt="frontend_chatroom" src="https://github.com/user-attachments/assets/03ecceb8-aa69-4095-9493-6bcc611c99c5" />
+</div>
 
 ### Typing status
 <img width="321" height="117" alt="typing_status" src="https://github.com/user-attachments/assets/e9508e0b-f6a2-429a-bbc0-98651d7e82f4" />
@@ -33,7 +37,9 @@ node chat_server.js
 <img width="271" height="130" alt="user_info" src="https://github.com/user-attachments/assets/9ee3b000-7692-4b70-9faa-603b0df2478e" />
 
 ## Online user list
-<img width="1340" height="847" alt="frontend_online_user_list" src="https://github.com/user-attachments/assets/13cbea8d-4b46-48bd-ac72-11d7e0354a6c" />
+<div align="center">
+  <img width="700" alt="frontend_online_user_list" src="https://github.com/user-attachments/assets/13cbea8d-4b46-48bd-ac72-11d7e0354a6c" />
+</div>
 
 # API endpoints
 ## Registration and Sign in
